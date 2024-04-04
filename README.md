@@ -1,4 +1,4 @@
-# Redbus-Booking-Automation
+# Redbus-Booking-Automation through WebdriverIO
 This project demostrates automation testing for booking buses in Redbus using WebDriverIO, a Node.js library for browser automation.
 
 # Installation
